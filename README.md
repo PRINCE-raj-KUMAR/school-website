@@ -1,2 +1,2 @@
-# school-website
+# R.B.S MEMORIAL VIDYALAYA
 My school website project
